@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-322-leading-organizations-ii-fall-2003/a4a5231cc2230316f4f8a486f58061bd_ses9_mangaging_change.pdf
 file_size: 27601
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
