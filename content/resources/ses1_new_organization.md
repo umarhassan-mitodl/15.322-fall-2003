@@ -4,8 +4,6 @@ description: ''
 file: /courses/15-322-leading-organizations-ii-fall-2003/7e37e71fdca2ebba47ff7660baf884c2_ses1_new_organization.pdf
 file_size: 44452
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
